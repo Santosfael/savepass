@@ -37,7 +37,7 @@ Este projeto foi inicializado com [Expo-cli App](https://docs.expo.dev/get-start
 
 ### Scripts Disponíveis
 Instale todas as dependências da aplicação no diretório do projeto\
-`yarn` ou `npx install`
+`yarn` ou `npx install`\
 No diretório do projeto, você pode executar:\
 `expo start` (Como o projeto foi desenvolvido utilizando o Expo com managed workflow, sendo assim ao digitar `yarn start` ele não abre a página para usar o smartphone físico pelo QrCode)\
 
